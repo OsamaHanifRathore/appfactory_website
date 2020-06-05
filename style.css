@@ -1,0 +1,128 @@
+.navbar{
+    background-color: white !important;
+    margin: 0 !important;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+.navbar-brand{
+    font-family: 'Bigelow Rules', cursive;
+    font-size: 42px !important;
+    font-weight: bold;
+    background: -webkit-linear-gradient(rgba(7,27,82,1), rgba(0,128,128,1));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.navbar-text{
+    margin-right: 4%;
+}
+
+.body{
+    margin: auto 0;
+}
+.carousel{
+    margin: 0 !important;
+}
+
+P.main_para {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    width: 50em
+}
+.main{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.main_para_heading{
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom:60px;
+    color: blue;
+}
+
+.footer{
+    padding-top: 5px;
+    display:flex;
+    height: 50px;
+    align-items: center;
+    justify-content:center;
+    background-color: blue;
+    color: white;
+     
+}
+
+.info{
+    padding: 10px;
+}
+.flaticon-phone-call{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.cards{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.addressmapandform{
+    margin: 30px;
+    
+}
+.profile-image{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+}
+.circular--landscape {
+
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+  .circular--landscape img {
+    width: auto;
+    height: 100%;
+  }
+  .images{
+    
+        border-radius: 50%;
+      
+  }
+
+  .message{
+      text-align: justify;
+      display: flex;
+        justify-content: center;
+        text-align: center;
+        
+  }
+  .text{
+      width: 70%;
+  }
+  .hello_heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .footer3{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 5px;
+    display:flex;
+    height: 50px;
+    align-items: center;
+    justify-content:center;
+    background-color: blue;
+    color: white;
+  }
